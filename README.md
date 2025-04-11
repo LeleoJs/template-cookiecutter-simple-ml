@@ -1,4 +1,4 @@
-# {{ cookiecutter.project_name }}
+# Cookiecutter Simple Machine Learn Template
 
 A minimal Machine Learning project template powered by [Cookiecutter](https://github.com/cookiecutter/cookiecutter).
 
