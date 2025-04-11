@@ -33,6 +33,7 @@ bash init_env.sh
 
 ----
 
+```
 ## Project Structure
 project_name/
 ├── .vscode/
@@ -45,3 +46,4 @@ project_name/
 ├── init_env.bat
 ├── init_env.sh
 └── README.md
+```
