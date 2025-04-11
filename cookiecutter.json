@@ -1,0 +1,7 @@
+{
+  "project_name": "Projeto IA Exemplo",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "author_name": "Seu Nome",
+  "description": "Um projeto simples de IA com PyTorch",
+  "python_version": "3.12"
+}
