@@ -26,6 +26,7 @@ cookiecutter https://github.com/LeleoJs/template-cookiecutter-simple-ml
 ```
 
 ### Step 3: Execute the script to automatically create the virtual environment
+First: open the directory "project_name/"
 * Open on Linux
 init_env.bat
 * Open on Windows
